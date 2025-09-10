@@ -1,4 +1,4 @@
-\#Github and git conflict
+\#github and git
 
 ""Name"": Tahreem Khanzada
 **Access ID**: go1036
